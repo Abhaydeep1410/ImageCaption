@@ -25,7 +25,11 @@ Other is CCTV application, user need to download it , and can specify keyboards 
 
 
 ##  Gallery
-Pictures of your project.
+![Screenshot 2023-09-01 025411](https://github.com/Abhaydeep1410/ImageCaption/assets/92942827/7878768b-e429-4feb-b345-ff1c3f40d31a)
+
+![Screenshot 2023-09-01 025202](https://github.com/Abhaydeep1410/ImageCaption/assets/92942827/28c6211b-e66c-44b3-aed1-f33cf58e3da6)
+![Screenshot 2023-09-01 025237](https://github.com/Abhaydeep1410/ImageCaption/assets/92942827/b8bab2a1-a84d-4249-ad46-48b733c9a587)
+![Screenshot 2023-09-01 025334](https://github.com/Abhaydeep1410/ImageCaption/assets/92942827/31bb20eb-353a-431e-8bec-49f320ecf985)
 
 ## Community
 
@@ -76,7 +80,5 @@ Technologies/Libraries used - HTML, CSS, Reactjs , python , Flask , Tkinter, ML 
 
 
 ## Credit/Acknowledgment
-Credit the authors here.
+Made by Abhay deep.
 
-##  License
-Add a license here, or a link to it.
